@@ -1,1 +1,2 @@
-# Node_Shop_-MongoDB
+# Node Shop with Mongo DB
+# NodeShopMongoose
